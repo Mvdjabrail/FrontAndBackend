@@ -1,0 +1,32 @@
+.divMain {
+    display: flex;
+    align-content: center;
+    width: 30%;
+    margin: auto;
+    padding-top: 5%;
+}
+
+body {
+    background-color: rgb(149, 255, 0);
+}
+
+.mainInput {
+    width: 90%;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid blue;
+
+}
+
+form {
+    width: 100%;
+}
+
+.btnAdd {
+    width: 50%;
+    border: none;
+    cursor: pointer;
+    background-color: rgba(59, 121, 230, 0.947);
+    border-radius: 5px;
+}

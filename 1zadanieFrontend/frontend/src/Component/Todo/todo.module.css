@@ -1,0 +1,38 @@
+.todoDiv {
+    display: flex;
+    margin-top: 2%;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+
+.divTodo {
+    width: 30%;
+    background-color: rgb(115, 29, 254);
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 5px;
+    color: rgb(0, 247, 226);
+}
+
+.divTodo1 {
+    width: 30%;
+    background-color: rgb(0, 174, 255);
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn1 {
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+}
